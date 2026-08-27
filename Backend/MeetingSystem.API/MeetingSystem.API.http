@@ -1,0 +1,6 @@
+@MeetingSystem.API_HostAddress = http://localhost:5179
+
+GET {{MeetingSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

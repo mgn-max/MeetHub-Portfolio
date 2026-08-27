@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/MeetHub.Application.csproj" />
+  <Project Path="Domain/MeetHub.Domain.csproj" />
+  <Project Path="MeetingSystem.API/MeetHub.API.csproj" />
+  <Project Path="MeetingSystem.Infrastructure/MeetHub.Infrastructure.csproj" />
+</Solution>
